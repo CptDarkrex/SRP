@@ -1,0 +1,60 @@
+/*scroll bar*/
+::-webkit-scrollbar {
+    width: 7px !important; }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #0a4275!important;
+    border-radius: calc(12px / 2) !important; }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #0a4175c7!important; }
+  
+  ::-webkit-scrollbar,
+  ::-webkit-scrollbar-track,
+  ::-webkit-scrollbar-track-piece,
+  .scroller-zPkAnE::-webkit-scrollbar-track {
+    background: transparent !important; 
+    border-color: transparent !important;}
+    
+    /* SCROLLBARS -> LIGHT SCROLLBAR */
+.root-1gCeng::-webkit-scrollbar-thumb,
+.root-2QSv-c .scroller-GApUBG::-webkit-scrollbar-thumb,
+.root-SR8cQa .infoScroller-3EYYns::-webkit-scrollbar-thumb,
+.modal-yWgWj- .scrollerBase-289Jih::-webkit-scrollbar-thumb,
+.uploadModal-2ifh8j::-webkit-scrollbar-thumb,
+.body-3iLsc4::-webkit-scrollbar-thumb,
+.listScroller-2_vlfo::-webkit-scrollbar-thumb,
+.messagesPopout-24nkyi::-webkit-scrollbar-thumb,
+.scroller-tlc3kG::-webkit-scrollbar-thumb,
+.scroller-3GIiMh::-webkit-scrollbar-thumb,
+.scroller-2CvAgC::-webkit-scrollbar-thumb,
+.autocompleteScroller-iInVqR::-webkit-scrollbar-thumb,
+.sourceScroller-Pk7YAM::-webkit-scrollbar-thumb,
+.content-1LAB8Z::-webkit-scrollbar-thumb,
+.container-3JTnYm::-webkit-scrollbar-thumb,
+.roleMemberList-3mYYYB::-webkit-scrollbar-thumb,
+.roles-2tZ5Iq::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255, 0.09) !important; }
+
+.root-1gCeng::-webkit-scrollbar-thumb:hover,
+.root-2QSv-c .scroller-GApUBG::-webkit-scrollbar-thumb:hover,
+.root-SR8cQa .infoScroller-3EYYns::-webkit-scrollbar-thumb:hover,
+.modal-yWgWj- .scrollerBase-289Jih::-webkit-scrollbar-thumb:hover,
+.uploadModal-2ifh8j::-webkit-scrollbar-thumb:hover,
+.body-3iLsc4::-webkit-scrollbar-thumb:hover,
+.listScroller-2_vlfo::-webkit-scrollbar-thumb:hover,
+.messagesPopout-24nkyi::-webkit-scrollbar-thumb:hover,
+.scroller-tlc3kG::-webkit-scrollbar-thumb:hover,
+.scroller-3GIiMh::-webkit-scrollbar-thumb:hover,
+.scroller-2CvAgC::-webkit-scrollbar-thumb:hover,
+.autocompleteScroller-iInVqR::-webkit-scrollbar-thumb:hover,
+.sourceScroller-Pk7YAM::-webkit-scrollbar-thumb:hover,
+.content-1LAB8Z::-webkit-scrollbar-thumb:hover,
+.container-3JTnYm::-webkit-scrollbar-thumb:hover,
+.roleMemberList-3mYYYB::-webkit-scrollbar-thumb:hover,
+.roles-2tZ5Iq::-webkit-scrollbar-thumb:hover {
+  background: rgba(255,255,255, 0.15) !important; }
+
+/* SCROLLBARS -> REMOVE SCROLLBAR */
+.wrapper-1Rf91z .scroller-2TZvBN::-webkit-scrollbar {
+  width: 0 !important; }
